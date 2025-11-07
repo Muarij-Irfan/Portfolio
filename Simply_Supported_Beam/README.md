@@ -42,9 +42,9 @@ The beam’s height (**h₀**) was optimized to minimize **ω** (combined deflec
 A range of heights were tested, and for each, **deflection** and **mass** were obtained through FEM simulation.  
 The optimal beam design was selected based on minimum ω value.
 
-\[
-\omega = \alpha\delta + \frac{\beta}{10}
-\]
+
+ω = αδ + β/10
+
 
 where δ = 1.2.
 
