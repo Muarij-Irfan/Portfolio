@@ -59,7 +59,9 @@ The acquired data helped in defining **joint trajectories** and **ankle path gen
 
 ---
 
-![Trajectory](images/trajectory_plot.png)
+![Sprinting Gait](Cad_Model.png)
+![Sprinting Gait](Simulation.png)
+![Sprinting Gait](Prototype.jpeg)
 
 ---
 
