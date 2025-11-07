@@ -17,7 +17,7 @@ My work focuses on combining traditional mechanical principles with modern tools
 
 ---
 
-### 🧱 **2. Design and Fabrication of Acoustic Metamaterial Utilizing a Novel Resonator**
+### 🧱 **2. Multi-Layered Metamaterial for Vibro-Acoustic Control**
 **Type:** Research / Fabrication  
 **Tools:** SolidWorks, ANSYS, 3D Printing  
 - Designed an innovative resonator structure shaped like a cantilever beam for low-frequency noise reduction.  
