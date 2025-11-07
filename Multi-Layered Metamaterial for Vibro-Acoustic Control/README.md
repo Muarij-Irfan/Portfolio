@@ -60,4 +60,7 @@ Performance: Metamaterial A achieved higher STL and broader attenuation compared
 Metamaterial A demonstrated superior vibro-acoustic isolation characteristics and was selected for further comparison with the reference study by Nguyen et al.
 
 ![Multi-Layered Metamaterial for Vibro-Acoustic Control](MetamaterialA.jpg)
+![Multi-Layered Metamaterial for Vibro-Acoustic Control](MetamaterialA(2).jpg)
 ![Multi-Layered Metamaterial for Vibro-Acoustic Control](MetamaterialB.jpg)
+![Multi-Layered Metamaterial for Vibro-Acoustic Control](MetamaterialB(2).jpg)
+![Multi-Layered Metamaterial for Vibro-Acoustic Control](MetamaterialAPrototype.jpg)
