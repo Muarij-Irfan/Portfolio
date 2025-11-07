@@ -55,11 +55,17 @@ The simulation produced the following key visualizations and results:
 ### 🖼️ **Simulation Images**
 
 ```markdown
-![Pressure Contours](images/pressure_contours.png)
+![CFD Analysis of a Cyclone Separator](Pressure_Contour.png)
 *Pressure distribution inside the cyclone separator.*
 
-![Velocity Streamlines](images/velocity_streamlines.png)
+![CFD Analysis of a Cyclone Separator](Velocty_Contour.png)
 *Velocity profile showing tangential swirl flow.*
 
-![Particle Trajectories](images/particle_paths.png)
+![CFD Analysis of a Cyclone Separator](Ash_Solid_Particle_Time.png)
 *DPM-tracked ash particles showing separation pattern.*
+
+![CFD Analysis of a Cyclone Separator](Particle_Swirl_Velocity.png)
+
+![CFD Analysis of a Cyclone Separator](Cyclone_Seperator.png)
+
+![CFD Analysis of a Cyclone Separator](Cyclone_Seperator_Mesh.png)
