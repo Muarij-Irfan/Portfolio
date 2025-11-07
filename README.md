@@ -26,7 +26,7 @@ My work focuses on combining traditional mechanical principles with modern tools
 
 ---
 
-### 🔊 **3. Coupled Helmholtz and Membrane-Type Acoustic Metamaterial**
+### 🔊 **3. Design and Fabrication of a Hybrid Acoustic Metamaterial with Tuned Mass Membrane for Low-Frequency Noise Reduction**
 **Type:** Final Year Project / Research  
 **Tools:** SolidWorks, ANSYS, LabVIEW  
 - Developed a **hybrid acoustic metamaterial** combining Helmholtz and membrane resonators.  
