@@ -65,11 +65,13 @@ where δ = 1.2.
 > Place them in a folder named `images/` in this project directory, then use the following markdown snippet:
 
 ```markdown
-![Beam Setup](images/beam_setup.png)
-*Simply supported beam setup in ANSYS.*
+![Simply_Supported_Beam](Cad_Model.png)
+*Simply supported beam in SolidWorks.*
 
-![Deflection Contour](images/deflection_contour.png)
-*Deflection contour showing maximum displacement at mid-span.*
+![Simply_Supported_Beam](Static_Structural_Analysis.png)
+*Deflection contour showing maximum displacement at mid-span.*|
 
-![Stress Distribution](images/stress_distribution.png)
-*Stress distribution across beam length.*
+![Simply_Supported_Beam](Beam_Properties.png)
+*Beam properties*
+
+
