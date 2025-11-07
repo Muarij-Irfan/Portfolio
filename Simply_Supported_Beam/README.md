@@ -6,9 +6,7 @@ The objective was to design the **strongest and lightest** beam using either the
 
 The competition goal was to achieve the **lowest ω (performance parameter)** value, defined as:
 
-\[
-\omega = \alpha\delta + \frac{\beta}{10}
-\]
+ω = αδ + β/10
 
 where:  
 - **α** = Deflection of the beam (mm)  
