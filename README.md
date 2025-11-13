@@ -72,7 +72,7 @@ My work focuses on combining traditional mechanical principles with modern tools
 ## 📫 Contact
 **Email:** muarijirfan.pisjes@gmail.com  
 **LinkedIn:** [https://linkedin.com/in/muarij-irfan](https://www.linkedin.com/in/muarij-irfan-83477b27b/)  
-**Portfolio Website:** [website](https://muarijirfanportfolio.netlify.app/)  
+**Portfolio Website:** [https://muarijirfanportfolio](https://muarijirfanportfolio.netlify.app/)  
 
 ---
 
