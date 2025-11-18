@@ -96,3 +96,18 @@ The *Weed Terminator* project focuses on developing a low-cost, autonomous agric
 * Renewable-energy integration extends rover autonomy and reduces operating costs.
 * Mechanical design must balance weight, stability, and energy consumption for off-road performance.
 
+* ## 🚜 Weed Terminator – Prototype Gallery
+
+### 📊 Model Graphs
+![Model Graphs](Final%20Prototype/Model%20Graphs.png)
+
+### 🔥 Laser Testing
+![Laser Testing](Final%20Prototype/Laser%20testing.png)
+
+### 🌿 Weed Detection
+![Weed Detection](Final%20Prototype/Weed%20Detection.png)
+
+### 🤖 Final Prototype
+![Final Prototype](Final%20Prototype/Final%20Prototype.png)
+
+
