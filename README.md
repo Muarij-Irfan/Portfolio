@@ -69,6 +69,17 @@ My work focuses on combining traditional mechanical principles with modern tools
 
 ---
 
+### 🤖 **4. Weed Terminator: AI-Powered Laser Rover for Autonomous Weed Removal**
+
+**Type:** Final Year Project / Robotics + AI
+**Tools:** Python, YOLO, SolidWorks, Arduino, Laser Module
+
+* Built an autonomous rover that detects weeds using a **deep-learning model (YOLO)** trained on real farm datasets.
+* Integrated a **20W blue laser** with servo-based targeting to eliminate weeds without herbicides.
+* Designed and fabricated a solar-powered rover chassis, achieving real-time detection and precision laser firing in field conditions.
+
+---
+
 ## 📫 Contact
 **Email:** muarijirfan.pisjes@gmail.com  
 **LinkedIn:** [https://linkedin.com/in/muarij-irfan](https://www.linkedin.com/in/muarij-irfan-83477b27b/)  
