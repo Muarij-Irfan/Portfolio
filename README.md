@@ -62,21 +62,21 @@ My work focuses on combining traditional mechanical principles with modern tools
 
 ---
 
-## 🧰 Skills & Tools
-**Software:** SolidWorks, ANSYS Fluent, LabVIEW, MATLAB, TensorFlow, Python, HAP 6.2, Autocad  
-**Techniques:** CFD, FEA, Acoustic Testing, Prototyping, Data Acquisition
-**Interests:** Acoustics, AI-assisted Engineering Design, Mechatronics, Photonics, Thermodynamics 
+### 🤖 **7. Weed Terminator: AI-Powered Laser Rover for Autonomous Weed Removal**
 
----
-
-### 🤖 **4. Weed Terminator: AI-Powered Laser Rover for Autonomous Weed Removal**
-
-**Type:** Final Year Project / Robotics + AI
+**Type:** Robotics + AI
 **Tools:** Python, YOLO, SolidWorks, Arduino, Laser Module
 
 * Built an autonomous rover that detects weeds using a **deep-learning model (YOLO)** trained on real farm datasets.
 * Integrated a **20W blue laser** with servo-based targeting to eliminate weeds without herbicides.
 * Designed and fabricated a solar-powered rover chassis, achieving real-time detection and precision laser firing in field conditions.
+
+---
+
+## 🧰 Skills & Tools
+**Software:** SolidWorks, ANSYS Fluent, LabVIEW, MATLAB, TensorFlow, Python, HAP 6.2, Autocad  
+**Techniques:** CFD, FEA, Acoustic Testing, Prototyping, Data Acquisition
+**Interests:** Acoustics, AI-assisted Engineering Design, Mechatronics, Photonics, Thermodynamics 
 
 ---
 
